@@ -1,0 +1,28 @@
+_repo: A-Student-s-History-of-England-v.-2--of-3-1509-1689_40192
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gardiner, Samuel Rawson
+    birthdate: 1829
+    deathdate: 1902
+    gutenberg_agent_id: '33168'
+    url: http://www.gutenberg.org/2009/agents/33168
+description: ''
+gutenberg_issued: '2012-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Outlines, syllabi, etc.'
+- !lcsh 'Great Britain -- History'
+title: "A Student's History of England, v. 2: 1509-1689\r\nFrom the Earliest Times\
+  \ to the Death of King Edward VII"
+url: http://www.gutenberg.org/ebooks/40192
